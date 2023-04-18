@@ -824,7 +824,7 @@
 		},
 		{
 			"id": "WNO3000_포항01",
-			"user": "",
+			"user": "aa",
 			"description": "WNO3000_포항01"
 		},
 		{
@@ -1359,7 +1359,7 @@
 		},
 		{
 			"id": "시험용",
-			"user": "",
+			"user": "aa",
 			"description": "시험용"
 		},
 		{
@@ -14714,7 +14714,7 @@
 		},
 		{
 			"id": "WNO3000_보령02",
-			"user": "",
+			"user": "aa",
 			"description": "WNO3000_보령02"
 		},
 		{
@@ -51243,10 +51243,7 @@
 			"source": "S01P01_쿠팡_창원2FC",
 			"target": "WNA200A_남양중심국T01"
 		},
-		{
-			"source": "",
-			"target": ""
-		},
+		
 		{
 			"source": "S01P10_신협_웅천지점",
 			"target": "WNO3000_여수T01"
